@@ -1,0 +1,12 @@
+﻿  final flip fluid sim.cpp
+C:\Users\Ezekiel Chang\source\repos\final flip fluid sim\final flip fluid sim.cpp(32,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Ezekiel Chang\source\repos\final flip fluid sim\final flip fluid sim.cpp(34,32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ezekiel Chang\source\repos\final flip fluid sim\final flip fluid sim.cpp(35,32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ezekiel Chang\source\repos\final flip fluid sim\final flip fluid sim.cpp(235,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ezekiel Chang\source\repos\final flip fluid sim\final flip fluid sim.cpp(314,21): warning C4552: '*': result of expression not used
+  Generating code
+  1 of 18 functions ( 5.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  final flip fluid sim.vcxproj -> C:\Users\Ezekiel Chang\source\repos\final flip fluid sim\Release\final flip fluid sim.exe

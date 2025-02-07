@@ -1,0 +1,8 @@
+﻿  final flip fluid sim.cpp
+C:\Users\Ezekiel Chang\source\repos\final flip fluid sim\final flip fluid sim.cpp(32,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Ezekiel Chang\source\repos\final flip fluid sim\final flip fluid sim.cpp(34,32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ezekiel Chang\source\repos\final flip fluid sim\final flip fluid sim.cpp(35,32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ezekiel Chang\source\repos\final flip fluid sim\final flip fluid sim.cpp(235,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ezekiel Chang\source\repos\final flip fluid sim\final flip fluid sim.cpp(310,9): error C2146: syntax error: missing ';' before identifier 'subtractPressureGradient'
+C:\Users\Ezekiel Chang\source\repos\final flip fluid sim\final flip fluid sim.cpp(309,9): warning C4551: function call missing argument list
+C:\Users\Ezekiel Chang\source\repos\final flip fluid sim\final flip fluid sim.cpp(314,21): warning C4552: '*': result of expression not used

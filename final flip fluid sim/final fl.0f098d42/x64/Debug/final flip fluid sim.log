@@ -1,0 +1,4 @@
+﻿  final flip fluid sim.cpp
+C:\Users\Ezekiel Chang\source\repos\final flip fluid sim\final flip fluid sim.cpp(24,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ezekiel Chang\source\repos\final flip fluid sim\final flip fluid sim.cpp(42,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+LINK : fatal error LNK1168: cannot open C:\Users\Ezekiel Chang\source\repos\final flip fluid sim\x64\Debug\final flip fluid sim.exe for writing
